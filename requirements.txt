@@ -1,3 +1,5 @@
 fastapi
 uvicorn
 pydantic
+wgnlpy
+fastapi_utils
